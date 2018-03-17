@@ -1,0 +1,6 @@
+[submodule "upstream"]
+	path = upstream
+	url = https://github.com/pullmoll/musl-obstack
+[submodule "meta"]
+	path = meta
+	url = git://github.com/amylum/pkgforge-helper
