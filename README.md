@@ -1,7 +1,7 @@
 obstack
 ==========
 
-[![Build Status](https://img.shields.io/circleci/project/amylum/obstack/master.svg)](https://circleci.com/gh/amylum/obstack)
+[![Build Status](https://img.shields.io/travis/com/amylum/obstack.svg)](https://travis-ci.com/amylum/obstack)
 [![GitHub release](https://img.shields.io/github/release/amylum/obstack.svg)](https://github.com/amylum/obstack/releases)
 [![GPL Licensed](https://img.shields.io/badge/license-GPL-green.svg)](https://tldrlegal.com/license/gnu-general-public-license-v2)
 
